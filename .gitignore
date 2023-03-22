@@ -1,0 +1,4 @@
+dist
+cmake_example*
+.venv
+build
