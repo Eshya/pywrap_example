@@ -5,7 +5,7 @@
 mkdir build & cd build
 cmake ..
 make mickey
-make cmake_example
+make mickey_cpp
 ```
 
 ## setup bdist_wheel
